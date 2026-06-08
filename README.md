@@ -20,9 +20,7 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="center">✦ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬</h3>
+<h2 align="center">✦ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬</h2>
 
 ###
 
